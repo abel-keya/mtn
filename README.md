@@ -7,9 +7,11 @@ This is an analysis of the MTN Cote D'Ivoire data on the usage of their differen
 
 ## Requirements
 *Google account
+
 *Google collab notebook
 
-##Setup instruction
+## Setup instruction
+
 *Save a copy of the notebook in your drive and open it to access.
 
 ## Technologies used
