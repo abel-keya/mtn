@@ -25,7 +25,7 @@ At the time of completion there were no known bugs.
 In case of any clarifications or suggestions with regards to this project email me at chepsharonmaswai@gmail.com
 
 ## License
-Copyright (c) {2019} **{Sharon Maswai}**
+Copyright (c) 2019 **Sharon Maswai**
   
 
 
